@@ -15,7 +15,7 @@
 
 
 
-<p align="left">
+<p align="">
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadazizmario&theme=vue-dark&hide_langs_below=1&layout=compact" />
 </p>
 <p align="right">
