@@ -19,7 +19,7 @@
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasya22&theme=vue-dark&hide_langs_below=1&layout=compact" />
 </p>
 <p align="center">
-  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=fasya22&show_icons=true&theme=vue-dark&line_height=31" alt="Ohidur's github stats"/>
+  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=akhmadazizmario&show_icons=true&theme=vue-dark&line_height=31" alt="Ohidur's github stats"/>
 </p>
 <!--
 **akhmadazizmario/akhmadazizmario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
