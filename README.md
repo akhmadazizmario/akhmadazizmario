@@ -8,17 +8,17 @@
 <a href="mailto:akhmadazizmario@gmail.com?subject=Halo%20Fasya"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://instagram.com/azizmario_"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/github/followers/secondl1f3?label=Follow&style=social" alt="Github" /></a>&nbsp;
-<a align="right" href="https://akhmadazizmario.000webhostapp.com/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://fajarah.wordpress.com/" alt="Website" /></a>&nbsp;
+<a href="https://akhmadazizmario.000webhostapp.com/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://fajarah.wordpress.com/" alt="Website" /></a>&nbsp;
 
 <hr>
 
 
 
 
-<p align="center">
+<p align="left">
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadazizmario&theme=vue-dark&hide_langs_below=1&layout=compact" />
 </p>
-<p align="center">
+<p align="right">
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=akhmadazizmario&show_icons=true&theme=vue-dark&line_height=31" alt="Ohidur's github stats"/>
 </p>
 <!--
