@@ -8,8 +8,8 @@
 <a href="https://www.linkedin.com/in/akhmad-aziz-mario-262221232/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:akhmadazizmario@gmail.com?subject=Halo%20Fasya"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://instagram.com/azizmario_"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/secondl1f3?label=Follow&style=social)&nbsp;
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://fajarah.wordpress.com/)](https://akhmadazizmario.000webhostapp.com//)
+<a href="#"><img src="https://img.shields.io/github/followers/secondl1f3?label=Follow&style=social" alt="Github" /></a>&nbsp;
+<a href="https://akhmadazizmario.000webhostapp.com/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://fajarah.wordpress.com/" alt="Website" /></a>&nbsp;
 
 
 <!--
