@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasya22&theme=vue-dark&hide_langs_below=1&layout=compact" />
+  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadazizmario&theme=vue-dark&hide_langs_below=1&layout=compact" />
 </p>
 <p align="center">
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=akhmadazizmario&show_icons=true&theme=vue-dark&line_height=31" alt="Ohidur's github stats"/>
