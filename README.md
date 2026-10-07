@@ -34,7 +34,7 @@ Lulusan **S1 Sistem Informasi (IPK 3,90/4,00)** dengan pengalaman **1 tahun 11 b
 ## 💼 Pengalaman Kerja
 
 ### IT Staff, PT Tri Lestari Sandang Industry
-`November – 2024 at now` · 1 tahun 11 bulan
+`[Bulan Tahun] – [Bulan Tahun]` · 1 tahun 11 bulan
 
 | Bidang | Tanggung Jawab |
 |:--|:--|
@@ -60,6 +60,8 @@ Lulusan **S1 Sistem Informasi (IPK 3,90/4,00)** dengan pengalaman **1 tahun 11 b
 **Database & Tools**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
