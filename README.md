@@ -34,7 +34,7 @@ Lulusan **S1 Sistem Informasi (IPK 3,90/4,00)** dengan pengalaman **1 tahun 11 b
 ## 💼 Pengalaman Kerja
 
 ### IT Staff, PT Tri Lestari Sandang Industry
-`[Bulan Tahun] – [Bulan Tahun]` · 1 tahun 11 bulan
+`November 2024 – now` · 1 tahun 11 bulan
 
 | Bidang | Tanggung Jawab |
 |:--|:--|
